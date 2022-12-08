@@ -3,8 +3,8 @@
   import IconPlusCircle from './icons/IconPlusCircle.vue'
 
   const images = [
-    { src: 'src/assets/images/img_1.png', id: 1 },
-    { src: 'src/assets/images/img_2.png', id: 2 },
+    { src: '/images/img_1.png', id: 1 },
+    { src: '/images/img_2.png', id: 2 },
   ]
   const selectImg = ref()
 </script>
