@@ -25,7 +25,7 @@
     </div>
     <div class="w-1/2 p-1">
       <div
-        class="flex flex-col justify-center items-center max-w-[180px] h-[102px] rounded-5 border border-dashed border-[#B9B9C3] mx-auto"
+        class="flex flex-col justify-center items-center h-[102px] rounded-5 border border-dashed border-[#B9B9C3]"
       >
         <IconPlusCircle class="fill-[#6E6B7B] mb-2" />
         Add image
